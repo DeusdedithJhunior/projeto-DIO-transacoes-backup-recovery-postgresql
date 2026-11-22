@@ -1,0 +1,2 @@
+# Scripts shell sempre com fim de linha LF (CRLF quebra o bash no Git Bash)
+*.sh text eol=lf
